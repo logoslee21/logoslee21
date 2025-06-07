@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋  
+I used theme of https://choiiis.github.io/github-blog/minimal-mistakes-customized-repo/  
 
 <!--
 **logoslee21/logoslee21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
